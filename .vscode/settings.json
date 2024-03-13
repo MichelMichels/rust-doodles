@@ -1,3 +1,7 @@
 {
-    "cmake.configureOnOpen": false
+    "rust-analyzer.linkedProjects": [
+        ".\\src\\adding-dependencies\\Cargo.toml",
+        ".\\src\\guessing-game\\Cargo.toml",
+        ".\\src\\hello-rust\\Cargo.toml",
+    ]
 }
